@@ -215,6 +215,7 @@ If you find this repo useful, please consider **★STARing** and feel free to sh
 - "Post-training Quantization on Diffusion Models", CVPR, 2023. [[paper](http://openaccess.thecvf.com/content/CVPR2023/html/Shang_Post-Training_Quantization_on_Diffusion_Models_CVPR_2023_paper.html)] [[code](https://https//github.com/42Shawn/PTQ4DM)] [**`PTQ`**]
 
 ### Image Classification
+- "PLUM: Improving Inference Efficiency By Leveraging Repetition-Sparsity Trade-Off", TMLR, 2024 [[code](https://github.com/sachitkuhar/PLUM)][[webpage](https://github.com/sachitkuhar/PLUM)][[video](https://www.youtube.com/watch?v=nE_CYDWqQ_I)][**`extreme`**]
 - "MetaAug: Meta-Data Augmentation for Post-Training Quantization", ECCV, 2024. [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/3914_ECCV_2024_paper.php)]
 - "Sharpness-Aware Data Generation for Zero-shot Quantization", ICML, 2024. [[paper](https://openreview.net/forum?id=8mKXMnhnFW)]
 - "A2Q+: Improving Accumulator-Aware Weight Quantization", ICML, 2024. [[paper](https://openreview.net/forum?id=mbx2pLK5Eq)]
